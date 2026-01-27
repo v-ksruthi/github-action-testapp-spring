@@ -50,4 +50,4 @@ jobs:
           app-name: 'wapoidc'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4881C01096964D6B83D9AE71F3A617D2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B92D4C65EBFC4CDD85FD3F716308DF36 }}
